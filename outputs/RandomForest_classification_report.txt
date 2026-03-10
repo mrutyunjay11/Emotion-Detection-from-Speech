@@ -1,0 +1,13 @@
+RandomForest — Test Accuracy: 0.7110
+
+              precision    recall  f1-score   support
+
+       happy       0.77      0.59      0.67        39
+         sad       0.60      0.71      0.65        38
+       angry       0.77      0.87      0.82        39
+     neutral       0.72      0.68      0.70        19
+     fearful       0.72      0.68      0.70        38
+
+    accuracy                           0.71       173
+   macro avg       0.72      0.71      0.71       173
+weighted avg       0.72      0.71      0.71       173

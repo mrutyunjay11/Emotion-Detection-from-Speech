@@ -1,0 +1,16 @@
+{
+  "best_model": "SVM",
+  "accuracy": 0.7572254335260116,
+  "classes": [
+    "happy",
+    "sad",
+    "angry",
+    "neutral",
+    "fearful"
+  ],
+  "feature_dim": 59,
+  "all_results": {
+    "SVM": 0.7572254335260116,
+    "RandomForest": 0.7109826589595376
+  }
+}
